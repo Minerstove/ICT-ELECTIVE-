@@ -1,0 +1,57 @@
+Goal: Apply a marquee tag to create an animated webpage.
+
+Product: Animated Sea page
+
+Instructions:
+
+1. Check your email for the copy of the images to be used in the activity 4
+
+Note: You may have the option to use other pictures (the image type recommended is PNG)
+
+2. Download the images
+
+3. Create an Activity 4 - Animated City folder.
+
+4. Transfer the images inside the activity folder
+
+5. Open notepad++ or any html editor
+
+6. Create an html file and save it as ACT4_YOURLASTNAME.html inside the activity 4 folder
+
+7. Study the marquee tag in this link https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee
+
+8. Start making your activity 4 using the guide codes below
+
+<html>
+
+<head><title>Animated Sea</title></head>
+
+<body background="sea3.jpg"
+
+style="background-repeat: no repeat; background-size: 100% 100%;
+
+background-attachment: fixed;">
+
+
+
+<marquee direction="down" behavior="alternate" height="300" width="1000">
+
+<marquee direction="left" scrollamount="30"><img src="fish1.png" height="50" width="50"></marquee>
+
+</marquee>
+
+
+
+<marquee direction="up" behavior="alternate" height="200" width="1000">
+
+<marquee direction="right" scrollamount="20"><img src="fish2.png" height="20" width="20"></marquee>
+
+</marquee>
+
+
+
+9. Add at least 10 kinds of fish and save the changes you have made on your work
+
+10. When done, take a screenshot of the output and copy and paste the code into a word processing document. Save the file as ACT4_YOURLASTNAME.
+
+11. Upload your work here

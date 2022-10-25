@@ -6,15 +6,22 @@
         table, tr, td, th {
             border: 1px solid black;
             border-collapse: collapse;
+            padding: 10px;
+            border-spacing: 5px;
+        }
+        td {
+            text-align: center;
         }
     </style>
 </head>
 <body style="background-image: url('./images/star.gif');">
-    <table style="background-color:white ;">
-        <tr style="border: 3px solid black;">
-          <th colspan="7">Solar System</th>
+    <marquee direction="left" scrollamount="60"><img src="./images/UFO.png" height="100" width="200"></marquee>
+    <center>
+    <table style="background-color:white; width: 1000px;">
+        <tr style="border: 3px solid black; background-color: black;">
+          <th colspan="7" style="font-size: 25px; color:aliceblue;"><marquee direction="up" behavior="alternate" height="90" width="100%"><marquee direction="right">Solar System</marquee></marquee></th>
         </tr>
-        <tr style="border: 3px solid black;"> <!--Description-->
+        <tr style="border: 3px solid black; background-color: bisque;"> <!--Description-->
             <th>Planet</th>
             <th>Name</th>
             <th>Diameter</th>
@@ -23,8 +30,8 @@
             <th>Rotation</th>
             <th>Orbit</th>
         </tr>
-        <tr> <!--Mercury-->
-            <td><img src="./images/mercury.png"></td>
+        <tr style="background-color:gray;"> <!--Mercury-->
+            <td><img src="./images/mercury.png" height="100" width="100"></td>
             <td>Mercury</td>
             <td>3,100 miles</td>
             <td>36 million miles</td>
@@ -32,8 +39,8 @@
             <td>59 days</td>
             <td>88 days</td>
         </tr>
-        <tr> <!--Venus-->
-            <td><img src="./images/venus.png"></td>
+        <tr style="background-color: orange;"> <!--Venus-->
+            <td><img src="./images/venus.png" height="100" width="100"></td>
             <td>Venus</td>
             <td>7,500 miles</td>
             <td>67 million miles</td>
@@ -41,8 +48,8 @@
             <td>243 days</td>
             <td>225 days</td>
           </tr>
-        <tr> <!--Earth-->
-            <td><img src="./images/earth.png"></td>
+        <tr style="background-color: blue;"> <!--Earth-->
+            <td><img src="./images/earth.png" height="100" width="100"></td>
             <td>Earth</td>
             <td>7,926 miles</td>
             <td>93 million miles</td>
@@ -50,8 +57,8 @@
             <td>24 hours</td>
             <td>365 days</td>
         </tr>
-        <tr> <!--Mars-->
-            <td><img src="./images/mars.png"></td>
+        <tr style="background-color: red;"> <!--Mars-->
+            <td><img src="./images/mars.png" height="100" width="100"></td>
             <td>Mars</td>
             <td>4,218 miles</td>
             <td>142 million miles</td>
@@ -59,8 +66,8 @@
             <td>24.4 hours</td>
             <td>397 days</td>
         </tr>
-        <tr> <!--Jupiter-->
-            <td><img src="./images/jupiter.png"></td>
+        <tr style="background-color:darkorange;"> <!--Jupiter-->
+            <td><img src="./images/jupiter.png" height="100" width="100"></td>
             <td>Jupiter</td>
             <td>89,400 miles</td>
             <td>483 million miles</td>
@@ -68,8 +75,8 @@
             <td>10 hours</td>
             <td>11.6 years</td>
         </tr>
-        <tr> <!--Saturn-->
-            <td><img src="./images/saturn.png"></td>
+        <tr style="background-color:darkgoldenrod;"> <!--Saturn-->
+            <td><img src="./images/saturn.png" height="100" width="100"></td>
             <td>Saturn</td>
             <td>75,000 miles</td>
             <td>886 million miles</td>
@@ -77,8 +84,8 @@
             <td>10.4 hours</td>
             <td>29.46 years</td>
         </tr>
-        <tr> <!--Uranus-->
-            <td><img src="./images/uranus.png"></td>
+        <tr style="background-color: lightblue;"> <!--Uranus-->
+            <td><img src="./images/uranus.png" height="100" width="100"></td>
             <td>Uranus</td>
             <td>32,300 miles</td>
             <td>1.8 billion miles</td>
@@ -86,8 +93,8 @@
             <td>17 hours</td>
             <td>84 years</td>
         </tr>
-        <tr> <!--Neptune-->
-            <td><img src="./images/neptune.png"></td>
+        <tr style="background-color: darkblue;"> <!--Neptune-->
+            <td><img src="./images/neptune.png" height="100" width="100"></td>
             <td>Neptune</td>
             <td>32,300 miles</td>
             <td>2.8 billion miles</td>
@@ -95,11 +102,14 @@
             <td>18-22 hours</td>
             <td>165 years</td>
         </tr>
-        <tr> <!--Sun-->
-            <td><img src="./images/sun.png"></td>
+        <tr style="background-color: yellow;"> <!--Sun-->
+            <td><img src="./images/sun.png" height="100" width="100"></td>
             <td>Sun</td>
             <td>870,000 miles</td>
+            <td colspan="5" style="font-size: large;">Designed by: Rafael Felipe G. Viterbo 10A</td>
         </tr>
-      </table>
+    </table>
+    </center>
+    <marquee direction="right" scrollamount="50"><img src="./images/UFO.png" height="100" width="200"></marquee>
 </body>
 </html>

@@ -1,0 +1,29 @@
+Goal: Apply marquee tag, definition list tag, and formatting tag in a webpage.
+
+Product: Animated city page
+
+Instructions:
+
+1. Check your email for the copy of the images to be used in the activity 3
+
+Note: You may have the option to use other pictures (the image type recommended is PNG)
+
+2. Download the images
+
+3. Create an Activity 3 - Animated City folder.
+
+4. Transfer the images inside the activity folder
+
+5. Open notepad++ or any html editor
+
+6. Create an html file and save it as ACT3_YOURLASTNAME.html inside the activity 3 folder
+
+7. Check LESSON 2 in the LEARN tab. Read and study concepts about formatting and definition list tag. Also, include in your study the marquee tag in this link https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee
+
+8. Start making your activity 3
+
+9. Save the changes you have made on your work
+
+10. When done, take a screen shot of the output and copy paste the code in a word processing document. Save the file as ACT3_YOURLASTNAME.
+
+11. Upload your work here
