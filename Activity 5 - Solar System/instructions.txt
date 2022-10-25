@@ -1,0 +1,27 @@
+1. Open notepad++ and create an html page with the filename format planets_yourlastname.html.
+
+2. Title for the title tag: Solar System
+
+3. Create a table in the body with 11 rows and 7 columns
+
+4. Use the guide table below for data entry
+
+5. Customize the table with any value for the border, align, cellpadding, cellspacing, and width
+
+6. Expand the column of the first row equal to the number of columns on the table
+
+7. Add a marquee tag with an alternate behavior in Solar System Text.
+
+8. Within the angle brackets of each row, align the texts in the center and customize each row with different
+
+background colors
+
+9. Adjust the height and width of all the pictures into 100
+
+10. Add glittering stars picture with GIF format for the background of the body
+
+11. Below the table, add this text: “Designed by: Name and Section”.
+
+12. You may additional images to add more creativity with the design
+
+13. Save the changes you have made on your work.
