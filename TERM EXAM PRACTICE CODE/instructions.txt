@@ -1,0 +1,15 @@
+1. Open notepad++ and create an html page with the filename format ICTExam_yourlastname.html.
+2. Title for the title tag: November-December 2022 Calendar
+3. Create 2 tables in the body with 7 rows and 7 columns
+4. Use the guide table below for data entry
+
+5. Please add unordered list for the specific dates with special holidays. Makes the text italic.
+6. Customize the table with any value for the border, align, bgcolor, cellpadding, cellspacing, and width
+7. Expand the column of the first row equal to the number of columns on the table
+8. Add an image of Santa and add text “Designed by: Name and Section” before the tables by adding
+heading size. Add a marquee tag.
+9. Within the angle brackets of each row, align the texts in the center and customize each row with different
+colors.
+10. Add any background color for the background of the body
+11. Save the changes you have made on your work.
+12. Check sample output:
