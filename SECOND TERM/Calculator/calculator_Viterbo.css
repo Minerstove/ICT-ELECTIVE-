@@ -1,0 +1,72 @@
+body{
+	background-color: pink;
+}
+table {
+	border: 10px solid black;
+	background-color: green;
+	margin:auto;
+	border-color: black;
+	padding: 5px;
+}
+.keypad {
+	height: 100px;
+	width: 140px;
+	background-color: lightgray;
+	border-width: 4px;
+	border-radius: 10px;
+	border-color: green;
+	font-size: 40px;
+	cursor: pointer;
+}
+.toprow {
+	background-color: gray;
+}
+.onoff {
+	background-color: #FFB012;
+}
+.sidebutton {
+	background-color: #3A85A6;
+}
+
+#textbox{
+	height:100px;
+	width:100%;
+	border-radius: 8px;
+	border-width: 8px;
+	border-color: red;
+}
+#brand{
+	font-size: 60px;
+	color: orange;
+	font-family: Comic sans MS;
+	text-align: center;
+	font-weight: bold;
+}
+#byline{
+	font-size: 40px;
+	color: orange;
+	font-family: Verdana;
+	text-align: center;
+}
+input[type="button"]:hover{
+	background-color: white;
+	transition-duration: 0.2s;
+	color: gray;
+}
+input[type="button"]:active{
+	background-color: blue;
+	color: white;
+	transition-duration: 0s;
+}
+input[type="text"]{
+	color: #8067d8; /*#8067d8*/
+	font-family: OCR A;
+	font-size: 40px;
+	padding: 15px;
+	background-color: lightblue;
+	letter-spacing: -3px;
+}
+input[type="text"]:focus{
+	background-color: lightgreen;
+	transition-duration: 0.2s;
+}

@@ -1,0 +1,49 @@
+body{
+	background-color: lightgreen;
+}
+table, td, th{
+	border: 3px solid black;
+	padding:5px;
+	border-collapse: collapse;
+}
+.linkeddata{
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+}
+.credits{
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+}
+#mainTable{
+	background-color: lightblue;
+	border: 1px solid black;
+	width:1000px;
+	height:1000px;
+}
+#mainTable tr:nth-child(2){
+	font-size:30px;
+	background-color: orange;
+}
+#mainTable tr:nth-child(4){
+	font-size:30px;
+	background-color: orange;
+}
+/*qoute*/
+#qoute {
+	font-size:40px;
+	font-family:Comic Sans MS;
+	color: green;
+	font-weight: bold;
+}
+/*links*/
+a:link{
+	color:green;
+}
+a:visited{
+	color:green;
+}
+a:hover{
+	color:darkorange;
+}

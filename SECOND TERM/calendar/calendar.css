@@ -1,0 +1,215 @@
+p{
+	color:blue;
+	text-align:center;
+	font-size:20px;
+}
+body{
+	background-color: gray;
+}
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding:10px;
+}
+table{
+	background-color: darkblue;
+	border-width:10px;
+	width: 500px;
+	height: 400px;
+	margin: auto;
+	padding: 5px;
+	font-size: 20px;
+	font-family:Verdana;
+}
+td:hover {
+	background-color: lightgreen;
+	text-align:center;
+	transition-duration: 0.1s;
+}
+#title{
+	font-size: 50px;
+	font-family: harrington;
+	background-color: orange;
+}
+/*January*/
+#jan{
+	color:red;
+	font-size:30px;
+	font-family: harrington;
+}
+#tabjan{
+	border-collapse: separate;
+	background-color: darkblue;
+}
+#tabjan td{	
+	border-radius: 10px;
+}
+#tabjan tr:nth-child(even){
+	background-color: #D6EEEE;
+
+}
+#tabjan tr:nth-child(odd){
+	background-color: beige;
+}
+/*February*/
+#feb{
+	color:black;
+	font-size:30px;
+	font-family:harrington;
+}
+#tabfeb{
+	border-collapse: separate;
+	background-color: white;
+}
+#tabfeb td{	
+	border-radius: 10px;
+}
+#tabfeb tr:nth-child(even){
+	background-color: #ff3b3b;
+}
+#tabfeb tr:nth-child(odd){
+	background-color: pink;
+}
+/*March*/
+#mar{
+	color:black;
+	font-size:30px;
+	font-family:harrington;
+}
+#tabmar{
+	border-collapse: separate;
+	background-color: black;
+}
+#tabmar td{	
+	border-radius: 10px;
+}
+#tabmar tr:nth-child(even){
+	background-color: #b85d38;
+}
+#tabmar tr:nth-child(odd){
+	background-color: orange;
+}
+/*April*/
+#apr{
+	color:red;
+	font-size:30px;
+	font-family:harrington;
+}
+#tabapr{
+	border-collapse: separate;
+	background-color: beige;
+}
+#tabapr td{	
+	border-radius: 10px;
+}
+#tabapr tr:nth-child(even){background-color: #F07167;}
+#tabapr tr:nth-child(odd){background-color: #FED9B7;}
+/*May*/
+#may{
+	color:blue;
+	font-size:30px;
+	font-family:harrington;
+}
+#tabmay{
+	border-collapse: separate;
+	background-color: lightgreen;
+}
+#tabmay td{	
+	border-radius: 10px;
+}
+#tabmay tr:nth-child(even){background-color: #ffd136}
+#tabmay tr:nth-child(odd){background-color: #fff3c7}
+/*June*/
+#jun{
+	color: white;
+	font-size:30px;
+	font-family:harrington;
+}
+#tabjun{
+	color:white;
+	border-collapse: separate;
+	background-color: lightblue;
+}
+#tabjun td{	
+	border-radius: 10px;
+}
+#tabjun tr:nth-child(even){background-color: gray;}
+#tabjun tr:nth-child(odd){background-color: darkblue;}
+/*July*/
+#jul{
+	color: black;
+	font-size:30px;
+	font-family:harrington;
+}
+#tabjul{
+	border-collapse: separate;
+	background-color: black;
+}
+#tabjul td{border-radius: 10px;}
+#tabjul tr:nth-child(even){background-color:#0081A7;}
+#tabjul tr:nth-child(odd){background-color:#FDFCDC;}
+/*August*/
+#aug{
+	color: yellow;
+	font-size:30px;
+	font-family:harrington;
+}
+#tabaug{
+	border-collapse: separate;
+	background-color: white;
+}
+#tabaug td{border-radius: 10px;}
+#tabaug tr:nth-child(even){background-color:yellow;}
+#tabaug tr:nth-child(odd){background-color:red;}
+/*September*/
+#sep{
+	color: white;
+	font-size:30px;
+	font-family:harrington;
+}
+#tabsep{
+	border-collapse: separate;
+	background-color: white;
+}
+#tabsep td{border-radius: 10px;}
+#tabsep tr:nth-child(even){background-color: pink;}
+#tabsep tr:nth-child(odd){background-color: red;}
+/*October*/
+#oct{
+	color: orange;
+	font-size:30px;
+	font-family:harrington;
+}
+#taboct{
+	border-collapse: separate;
+	background-color: orange;
+}
+#taboct td{border-radius: 10px;}
+#taboct tr:nth-child(even){background-color: orange;}
+#taboct tr:nth-child(odd){background-color: black; color:white;}
+/*November*/
+#nov{
+	color: red;
+	font-size:30px;
+	font-family:harrington;
+}
+#tabnov{
+	border-collapse: separate;
+	background-color: yellow;
+}
+#tabnov td{border-radius: 10px;}
+#tabnov tr:nth-child(even){background-color:pink;}
+#tabnov tr:nth-child(odd){background-color:beige;}
+/*December*/
+#dec{
+	color: White;
+	font-size:30px;
+	font-family:harrington;
+}
+#tabdec{
+	border-collapse: separate;
+	background-color: darkgray;
+}
+#tabdec td{border-radius: 10px;}
+#tabdec tr:nth-child(even){background-color: green;}
+#tabdec tr:nth-child(odd){background-color: red;}
